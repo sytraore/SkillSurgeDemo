@@ -1,5 +1,5 @@
 # SkillSurgeDemo
-This repository is only for **demo purpose**. The project was completd in **Spring 2025** as a team semester project for a data analysis course where we researched the market to find the top keywords employers are looking for jobs in this market.
+This repository is only for **demo purpose**. The project was completd in **Spring 2025** as a team semester project for a data analysis course where we researched the market to find the top keywords employers are looking for AI roles in this market.
 
 ## About
 This is a data analysis project to search for job trends and analyze how companies are investing in AI research, using job openings as a proxy for investment priority or as indicators of skill shortage. By querying the job skills required in numerous posting, we can identify which AI-related skills are in-demand in today's market. This will not only allows us to aid companies in formulating strategies to retain employees but will also serve as a tool used in education to highlight what in-demand skills need to be taught to adequately equip students for the current job market.
